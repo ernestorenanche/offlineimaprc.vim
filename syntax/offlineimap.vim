@@ -12,7 +12,7 @@ syn match offlineimapAccount /\[\(Account\).*\]/
 syn match offlineimapRepository /\[\(Repository\).*\]/
 
 syn keyword offlineimapOption
-      \| metadata
+      \ metadata
       \| accounts
       \| maxsyncaccounts
       \| ui
